@@ -1,11 +1,14 @@
 {
   "scripts": {
-    "dev": "slidev",
+    "start": "slidev",
     "build": "slidev build",
     "export": "slidev export"
   },
   "dependencies": {
-    "@slidev/cli": "^0.36.5",
-    "@slidev/theme-default": "^0.19.1"
+    "@slidev/cli": "^0.36.10",
+    "@slidev/theme-default": "^0.21.2"
+  },
+  "devDependencies": {
+    "@iconify-json/mdi": "^1.1.34"
   }
 }
