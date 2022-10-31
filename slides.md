@@ -2,6 +2,8 @@
 title: Vue 3 mit Vite Dev Server
 titleTemplate: "%s"
 lineNumbers: true
+fonts:
+  provider: none
 
 src: slides/cover.md
 ---

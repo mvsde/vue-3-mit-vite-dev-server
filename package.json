@@ -5,6 +5,8 @@
     "export": "slidev export"
   },
   "dependencies": {
+    "@fontsource/fira-code": "^4.5.12",
+    "@fontsource/nunito-sans": "^4.5.10",
     "@slidev/cli": "^0.36.10",
     "@slidev/theme-default": "^0.21.2"
   },
