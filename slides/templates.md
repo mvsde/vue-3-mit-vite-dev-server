@@ -17,7 +17,7 @@ layout: center
 
 <v-click>
 
-<mdi-arrow-right class="inline" /> [vitejs.dev/guide](https://vitejs.dev/guide/)
+[vitejs.dev/guide](https://vitejs.dev/guide/)
 
 </v-click>
 

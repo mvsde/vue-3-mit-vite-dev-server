@@ -16,7 +16,7 @@ layout: center
 
 <v-click>
 
-<mdi-arrow-right class="inline" /> [vite.talks.fynn.be](https://vite.talks.fynn.be)
+[vite.talks.fynn.be](https://vite.talks.fynn.be)
 
 </v-click>
 
