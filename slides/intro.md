@@ -12,6 +12,6 @@ layout: center
 
 # Fynn Becker
 
-* [fynn.be](https://fynn.be)
-* [twitter.com/mvsde](https://twitter.com/mvsde)
-* [github.com/mvsde](https://github.com/mvsde)
+- [fynn.be](https://fynn.be)
+- [@mvsde@mastodon.social](https://mastodon.social/@mvsde)
+- [github.com/mvsde](https://github.com/mvsde)
